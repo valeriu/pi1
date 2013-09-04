@@ -1,0 +1,41 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1207" measuredH="876" mockupW="1200" mockupH="875">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="7" y="1" w="1200" h="875" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Erreur%20HTTP%20404%20%20-%20Honda%20Accord%202014%0Ahttp%3A//hondaaccord.ca/404.php</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="41" y="97" w="-1" h="-1" measuredW="83" measuredH="63" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Honda%20Accord</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="1053" y="109" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Planifier%20un%20essai</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="41" y="196" w="-1" h="-1" measuredW="696" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Survol%2C%20Ext%E9rieur%2C%20Int%E9rieur%2C%20S%E9curit%E9%2C%20Technologie%2C%20Sp%E9cifications%2C%20Garantie%2C%20Planifier%20un%20essai%2C%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="41" y="260" w="-1" h="-1" measuredW="322" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Erreur%20HTTP%20404</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="41" y="780" w="1127" h="-1" measuredW="363" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Pied%20de%20page%20-%20%A9Honda%20Canada%2C%202013.%20Tous%20droits%20r%E9serv%E9s.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="41" y="328" w="1087" h="412" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>En%20informatique%2C%20l%u2019erreur%20404%20est%20un%20code%20d%u2019erreur%20du%20protocole%20de%20communication%20HTTP%20sur%20le%20r%E9seau%20Internet1.%20Ce%20code%20est%20renvoy%E9%20par%20un%20serveur%20HTTP%20pour%20indiquer%20que%20la%20ressource%20demand%E9e%20%28g%E9n%E9ralement%20une%20page%20web%29%20n%u2019existe%20pas.%20Certains%20navigateurs%20web%20affichent%20alors%20le%20message%20%AB%20404%20File%20Not%20Found%20%BB%20%28de%20l%u2019anglais%20signifiant%20%AB%20fichier%20non%20trouv%E9%20%BB%29%20%E0%20destination%20de%20l%u2019internaute.%0A%20%0ACe%20code%20peut%20aussi%20%EAtre%20d%E9tourn%E9%20de%20son%20sens%20et%20renvoy%E9%20suite%20%E0%20une%20restriction%20d%u2019acc%E8s%20%E0%20certaines%20ressources%20web%20%28par%20exemple%20due%20%E0%20une%20censure2%29.%0A%20%0ALe%20premier%204%20indique%20une%20erreur%20dans%20la%20requ%EAte%2C%20ici%20une%20mauvaise%20URL%2C%20venant%20d%u2019une%20page%20obsol%E8te%20ou%20d%u2019une%20erreur%20de%20saisie%20d%u2019adresse%20web%20de%20la%20part%20du%20visiteur.%20Le%20dernier%204%20indique%20le%20probl%E8me%20caus%E9%20par%20cette%20erreur%20%3A%20la%20ressource%20est%20introuvable.%0A%20%0ALe%20num%E9ro%20200%20est%20renvoy%E9%20lorsqu%u2019il%20n%u2019y%20a%20aucune%20erreur%2C%20auquel%20cas%20la%20page%20demand%E9e%20est%20affich%E9e%20par%20le%20navigateur.%20Il%20est%20pr%E9f%E9rable%20d%u2019utiliser%20un%20code%20d%u2019en-t%EAte%20410%2C%20lorsque%20la%20ressource%20n%u2019existe%20plus.%0A%20%0ALes%20num%E9ros%20d%u2019erreur%20sont%20d%E9finis%20dans%20les%20sp%E9cifications%20%28RFC%29%20du%20protocole%20de%20communication%20HTTP.%0A%20%0ADes%20logiciels%20comme%20CrawlTrack%20peuvent%20%EAtre%20utilis%E9s%20par%20les%20webmasters%20pour%20lister%20les%20erreurs%20404%2C%20afin%20de%20pouvoir%20les%20r%E9parer%20manuellement.%0A%20%0ALa%20l%E9gende%20attribue%20le%20num%E9ro%20d%u2019erreur%20%AB%20404%20%BB%20%E0%20l%u2019anecdote%20selon%20laquelle%20%AB%20au%20CERN%2C%20en%20Suisse%2C%20les%20chercheurs%2C%20exc%E9d%E9s%20d%u2019aller%20sans%20cesse%20relancer%20un%20%ADserveur%20d%E9faillant%20install%E9%20dans%20le%20bureau%20no%20404%2C%20aient%20attribu%E9%20ce%20num%E9ro%20d%u2019erreur%20au%20d%E9faut%20de%20connexion%2C%20en%20%ADsouvenir%20de%20cette%20pi%E8ce%20maudite.%20%BB3%0A%20%0ADe%20nombreux%20webmasters%20ont%20d%E9cid%E9%20de%20personnaliser%20cette%20page%20d%27erreur%2C%20la%20page%20404%20%E9tant%20r%E9ellement%20devenue%20partie%20int%E9grante%20de%20la%20culture%20Web4.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

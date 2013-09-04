@@ -1,0 +1,66 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1207" measuredH="876" mockupW="1200" mockupH="875">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="7" y="1" w="1200" h="875" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ext%E9rieur%20%20%20-%20Honda%20Accord%202014%0Ahttp%3A//hondaaccord.ca/exterieur.php</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="41" y="97" w="-1" h="-1" measuredW="83" measuredH="63" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Honda%20Accord</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="1053" y="109" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Planifier%20un%20essai</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="41" y="196" w="-1" h="-1" measuredW="696" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Survol%2C%20Ext%E9rieur%2C%20Int%E9rieur%2C%20S%E9curit%E9%2C%20Technologie%2C%20Sp%E9cifications%2C%20Garantie%2C%20Planifier%20un%20essai%2C%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="41" y="260" w="-1" h="-1" measuredW="183" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ext%E9rieur%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="41" y="780" w="1127" h="-1" measuredW="363" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Pied%20de%20page%20-%20%A9Honda%20Canada%2C%202013.%20Tous%20droits%20r%E9serv%E9s.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="41" y="334" w="250" h="256" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="331" y="334" w="250" h="256" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="620" y="334" w="250" h="256" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="908" y="334" w="250" h="256" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="41" y="635" w="-1" h="-1" measuredW="158" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ext%E9rieur%20Text</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="41" y="677" w="1117" h="88" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Fusce%20laoreet%20pellentesque%20augue%2C%20ac%20aliquet%20tortor%20molestie%20et.%20Sed%20ultrices%20malesuada%20libero.%20Nullam%20sagittis%20accumsan%20laoreet.%20Sed%20sed%20lorem%20sapien.%20Quisque%20mollis%20volutpat%20libero%2C%20et%20aliquet%20odio%20commodo%20vel.%20Interdum%20et%20malesuada%20fames%20ac%20ante%20ipsum%20primis%20in%20faucibus.%20Curabitur%20in%20pulvinar%20mauris%2C%20et%20ultrices%20eros.%20Morbi%20in%20lectus%20vitae%20felis%20euismod%20dapibus.%20Nam%20pharetra%20imperdiet%20nisl%2C%20nec%20ullamcorper%20arcu%20gravida%20eu.%20Quisque%20vitae%20fermentum%20nisl.%20Aenean%20malesuada%2C%20augue%20ac%20vehicula%20sodales%2C%20leo%20nibh%20consequat%20mi%2C%20at%20interdum%20velit%20elit%20eu%20libero.%20Phasellus%20placerat%20nec%20quam%20vel%20lacinia.%20Nullam%20nec%20sapien%20sed%20quam%20rhoncus%20placerat%20vel%20id%20metus.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
