@@ -1,1 +1,0 @@
-programul Balsamiq Mockups
