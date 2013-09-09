@@ -1,0 +1,168 @@
+/* --- --- [  ] --- --- */
+/*
+Theme Name: Honda Accord 2014
+Author: Valeriu Tihai
+Author URI: http://valeriu.tihai.md/
+Version: 1.0
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* --- --- [ HTML5 display-role reset for older browsers --- --- */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+:focus {/* remember to define focus styles! */
+	outline: 0;
+}
+/* --- --- [ General settings] --- --- */
+.clear {
+	clear: both;
+}
+.fleft {
+	float: left;
+}
+.fright {
+	float: right;
+}
+.centercontent {
+	max-width: 1180px;
+	margin:0 auto;
+}
+a {
+	color: #ed1c24;
+}
+a:hover {
+	color: #ba0511;
+}
+/* --- --- [ Header ] --- --- */
+header {
+	padding: 10px 0;
+}
+.essai {
+	background-color: #ecf0f1;
+	width: 380px;
+	height: 25px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding: 20px 5px;
+	margin-top: 20px;
+}
+.essai a {
+	color: #ed1c24;
+	font-family: "Open Sans", Verdana, sans-serif;
+	font-weight: 600;
+	margin-left: 30px;
+	padding-left: 40px;
+	font-size: 130%;
+	background:#ecf0f1 url("../images/essai-lock.png") no-repeat left;
+	text-decoration: none;
+}
+.essai a:hover {
+	background:#ecf0f1 url("../images/essai-unlock.png") no-repeat left;
+	color: #2bc66f;
+} 
+/* --- --- [ Navigation ] --- --- */
+nav {
+	border-top:solid 1px #ffe1df;
+	border-bottom:solid 1px #ffe1df;
+
+}
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	
+}
+nav ul li {
+	float: left;
+}
+nav ul li a {
+	color: #464140;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 135%;
+	margin: 30px 55px 0 0;
+	display: inline-block;
+	text-decoration: none;
+	padding-bottom: 30px;
+
+}
+nav ul li a:hover {
+	color: #ed1c24;
+	background:#ffffff url("../images/arrow-bottom-menu.png") no-repeat center 30px;
+}
+/* --- --- [ Slider ] --- --- */
+.centercontentslider {
+	position: absolute;
+	top:10%;
+	right: 0px;
+	font-size: 200%;
+	font-family: "Open Sans", Verdana, sans-serif;
+	color: #fff;
+	background-color: rgba(212,9,22,0.8);
+	max-width: 45%;
+	padding: 1%;
+}
+.sliderli {
+	position: relative;
+}
+/* --- --- [ Footer ] --- --- */
+.fhonda {
+	width: 66%;
+}
+.social-icons {
+	width: 33%;
+}
+.designby, .copyright {
+	width: 50%;
+}
+.designby, .copyright, .fhonda .titre, .social-icons .titre {
+	font-family: 'Source Sans Pro', Verdana, sans-serif;
+	text-transform: uppercase;
+	color: #000;
+	font-weight: 400;
+	margin: 20px 0 30px 0;
+}
+.designby a{
+	text-decoration: none;
+}
+.designby span {
+	background:#ffffff url("../images/coeur.png") no-repeat right;
+	padding-right: 15px;
+}
+.copyright {
+	text-align: right;
+}
