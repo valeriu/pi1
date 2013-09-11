@@ -1,0 +1,73 @@
+@font-face {
+	font-family: 'hondaaccord';
+	src:url('fonts/hondaaccord.eot');
+	src:url('fonts/hondaaccord.eot?#iefix') format('embedded-opentype'),
+		url('fonts/hondaaccord.woff') format('woff'),
+		url('fonts/hondaaccord.ttf') format('truetype'),
+		url('fonts/hondaaccord.svg#hondaaccord') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'hondaaccord';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-facebook, .icon-twitter, .icon-google-plus, .icon-youtube, .icon-foursquare, .icon-feed, .icon-css3, .icon-html5, .icon-lock-fill, .icon-unlock-fill, .icon-heart-stroke {
+	font-family: 'hondaaccord';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-facebook:before {
+	content: "\e000";
+}
+.icon-twitter:before {
+	content: "\e001";
+}
+.icon-google-plus:before {
+	content: "\e002";
+}
+.icon-youtube:before {
+	content: "\e003";
+}
+.icon-foursquare:before {
+	content: "\e008";
+}
+.icon-feed:before {
+	content: "\e009";
+}
+.icon-css3:before {
+	content: "\e00a";
+}
+.icon-html5:before {
+	content: "\e00b";
+}
+.icon-lock-fill:before {
+	content: "\e00c";
+}
+.icon-unlock-fill:before {
+	content: "\e005";
+}
+.icon-heart-stroke:before {
+	content: "\e004";
+}

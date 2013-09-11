@@ -29,6 +29,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 body {
 	line-height: 1;
+	font-family: 'Source Sans Pro', Verdana, sans-serif;
 }
 ol, ul {
 	list-style: none;
@@ -67,6 +68,19 @@ a {
 }
 a:hover {
 	color: #ba0511;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #666;
+	font-weight: 300;
+}
+h1 {
+	font-size: 350%;
+}
+h2 {
+	font-size: 300%;
+}
+h3 {
+	font-size: 250%;
 }
 /* --- --- [ Header ] --- --- */
 header {
@@ -112,9 +126,9 @@ nav ul li {
 }
 nav ul li a {
 	color: #464140;
-	font-family: 'Quicksand', sans-serif;
-	font-size: 135%;
+	font-size: 155%;
 	margin: 30px 55px 0 0;
+	font-weight: 400;
 	display: inline-block;
 	text-decoration: none;
 	padding-bottom: 30px;
@@ -139,12 +153,72 @@ nav ul li a:hover {
 .sliderli {
 	position: relative;
 }
+/* --- --- [ Articel ] --- --- */
+article p {
+	font-size: 135%;
+	line-height: 155%;
+	margin-bottom: 2%;
+}
+article h1, article h2{
+	margin: 20px 0 40px 0;
+}
+article .gallery {
+	margin:0 10px 20px 0;
+}
+article strong {
+	font-weight: 700;
+}
 /* --- --- [ Footer ] --- --- */
 .fhonda {
 	width: 66%;
 }
+.fhonda ul {
+	width: 100%;
+	overflow:hidden;
+}
+.fhonda ul li{
+	line-height:1.5em;
+	float:left;
+	display:inline;
+	width:20%;
+}
+
 .social-icons {
 	width: 33%;
+}
+.social-icons a {
+	padding: 10px;
+	font-size: 220%;
+	text-decoration: none;
+	color: #999;
+	margin: 3px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
+.icon-facebook:hover {
+	background: #3a589b;
+	color: #fff;
+}
+.icon-twitter:hover{
+	background: #00aced;
+	color: #fff;
+}
+.icon-google-plus:hover{
+	background: #d64136;
+	color: #fff;
+}
+.icon-youtube:hover{
+	background: #FF3333;
+	color: #fff;
+}
+.icon-foursquare:hover{
+	background: #8fd400;
+	color: #fff;
+}
+.icon-feed:hover{
+	background: #ee832f;
+	color: #fff;
 }
 .designby, .copyright {
 	width: 50%;
@@ -160,8 +234,8 @@ nav ul li a:hover {
 	text-decoration: none;
 }
 .designby span {
-	background:#ffffff url("../images/coeur.png") no-repeat right;
-	padding-right: 15px;
+	color: #ed1c24; 
+	font-size: 80%;
 }
 .copyright {
 	text-align: right;
