@@ -16,7 +16,8 @@ window.onload = function() {
 			'icon-html5' : '&#xe00b;',
 			'icon-lock-fill' : '&#xe00c;',
 			'icon-unlock-fill' : '&#xe005;',
-			'icon-heart-stroke' : '&#xe004;'
+			'icon-heart-stroke' : '&#xe004;',
+			'icon-checkmark' : '&#xe006;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, c, el;

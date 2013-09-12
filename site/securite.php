@@ -9,7 +9,7 @@
 	<article class="centercontent content">
 		<h1>La sécurité d’abord</h1>
 		<p>La nouvelle génération hautement novatrice de structure de carrosserie à compatibilité avancéeMC (ACE) II est conçue pour contribuer à répartir l’énergie d’une collision frontale, afin de mieux protéger les occupants. Le châssis est conçu dans le but d’aider à contrôler plus efficacement l’énergie produite par un impact suite à une violente collision, afin d’aider à prévenir une intrusion dans l’habitacle.</p>
-		<a href="http://www.youtube.com/watch?v=rApISUqfcDM&hd=1" data-rel="prettyPhoto" title="Coussins de sécurité gonflables latéraux Smartvent">
+		<a href="http://www.youtube.com/watch?v=rApISUqfcDM" data-rel="prettyPhoto" title="Coussins de sécurité gonflables latéraux Smartvent">
 			<img src="images/uploads/securite-01-full.jpg" alt="Survol berline accord">
 		</a>
 		<h2>Assistance à la stabilité du véhicule (VSAMD)</h2>

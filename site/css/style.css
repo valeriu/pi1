@@ -159,7 +159,7 @@ article p {
 	line-height: 155%;
 	margin-bottom: 2%;
 }
-article h1, article h2{
+article h1, article h2, article h3{
 	margin: 20px 0 40px 0;
 }
 article .gallery {
@@ -168,6 +168,67 @@ article .gallery {
 article strong {
 	font-weight: 700;
 }
+article table {
+	width: 100%;
+	font-size: 105%;
+	line-height: 155%
+}
+article table thead tr .first, article table tbody tr .first {
+	width: 40%;
+	text-align: left;
+}
+article table thead tr th {
+	font-weight: 700;
+}
+article table thead tr th, article table tbody tr td {
+	width: 10%;
+	text-align: center;
+}
+article .even {
+	background-color: #f3f3f3;
+}
+article  tr:hover{
+	background-color: #f3f3f3;
+}
+.icon-checkmark {
+	color: #999;
+}
+article  tr:hover .icon-checkmark{
+	color: #ed1c24;
+}
+article label, article input{
+	display: block;
+	width: 50%;
+}
+article label {
+	font-size: 135%;
+	margin-top: 1.5%;
+	margin-bottom: 0.7%;
+}
+article input{
+	height: 35px;
+	font-size: 135%;
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));  
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);  
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+}
+article input[type=submit] {
+	width: auto;
+}
+article textarea{
+	font-size: 135%;
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));  
+    background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);  
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+}
+input:hover, textarea:hover,
+input:focus, textarea:focus { 
+	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
+	}
 /* --- --- [ Footer ] --- --- */
 .fhonda {
 	width: 66%;

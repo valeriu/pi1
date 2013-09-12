@@ -28,7 +28,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-facebook, .icon-twitter, .icon-google-plus, .icon-youtube, .icon-foursquare, .icon-feed, .icon-css3, .icon-html5, .icon-lock-fill, .icon-unlock-fill, .icon-heart-stroke {
+.icon-facebook, .icon-twitter, .icon-google-plus, .icon-youtube, .icon-foursquare, .icon-feed, .icon-css3, .icon-html5, .icon-lock-fill, .icon-unlock-fill, .icon-heart-stroke, .icon-checkmark {
 	font-family: 'hondaaccord';
 	speak: none;
 	font-style: normal;
@@ -70,4 +70,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-heart-stroke:before {
 	content: "\e004";
+}
+.icon-checkmark:before {
+	content: "\e006";
 }
