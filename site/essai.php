@@ -8,7 +8,7 @@
  
 	<article class="centercontent content">
 		<h1>Demander un essai routier</h1>
-		<form id="essaiform">
+		<form id="essaiform" action="essaimesage.php">
 			<fieldset>
 				<legend>Information de contact</legend>
 
