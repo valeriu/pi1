@@ -20,6 +20,7 @@
 	<script type="text/javascript" src="js/base.js"></script>
 	<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
 	<script type="text/javascript" src="js/jquery.prettyphoto.js"></script>
+	<!--<script type="text/javascript" src="js/jquery.sticky.js"></script>-->
 	<script type="text/javascript" src="js/jquery.validate.js"></script>
 	<!--[if lte IE 7]><script src="js/lte-ie7.js"></script><![endif]-->
 </head>

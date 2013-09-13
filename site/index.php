@@ -5,17 +5,22 @@
 	include "include/header.php";
 	include "include/nav.php";
 ?>
-    <!-- Index Slider  -->     
+    <!-- Index Slider  -->
+    <article class="centercontent content">
+    	<h2>Vous Cherchez une voiture faite pour vous? Ca tombe bine. Elle cherche un conducteur qui est fait pour elle.</h2>     
+    </article>
 	<section class="flexslider centercontent">
+	
 		<ul class="slides">
-		<li class="sliderli">
-			<iframe width="1180" height="664" id="player_1" src="http://www.youtube.com/embed/Ne91GD3ywDg" allowfullscreen></iframe>
-		</li>
+
 		<li class="sliderli">
 			<img src="images/slider/01.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
-				1 Le Lorem Ipsum est simplement du faux texte
+				Honda Accord 2014
 			</div>
+		</li>
+		<li class="sliderli">
+			<iframe width="1180" height="664" id="player_1" src="http://www.youtube.com/embed/Ne91GD3ywDg" allowfullscreen></iframe>
 		</li>
 		<li class="sliderli">
 			<img src="images/slider/02.jpg" alt="Honda Accord 2014" />

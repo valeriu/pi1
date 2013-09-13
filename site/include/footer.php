@@ -1,6 +1,7 @@
+<div class="footercontainer">
 	<footer class="centercontent">
 		<div class="fhonda fleft">
-			<div class="titre">Famille Honda</div>
+			<div class="titre"><span>Famille Honda</span></div>
 			<ul>
 				<li><a target="_blank" href="http://honda.ca/fit">Fit</a></li>
 				<li><a target="_blank" href="http://honda.ca/civic_sedan">Civic Sedan</a></li>
@@ -15,7 +16,7 @@
 			</ul>
 		</div>
 		<div class="social-icons fright">
-			<div class="titre">Rester connecté</div>
+			<div class="titre"><span>Rester connecté</span></div>
 
 			<a href="" aria-hidden="true" class="icon-facebook"></a>
 			<a href="" aria-hidden="true" class="icon-twitter"></a>
@@ -34,5 +35,6 @@
 		</div>
 		<div class="clear"></div>
 	</footer>
+</div>
 </body>
 </html>
