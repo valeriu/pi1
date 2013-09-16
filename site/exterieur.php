@@ -39,5 +39,6 @@
 		<p>On retrouve des touches d’élégance partout sur l’Accord. Offerts dans certaines version, les rétroviseurs extérieurs assortis à la carrosserie avec clignotants intégrés attireront l’attention, sans se limiter aux changements de voie.</p>
 	</article>
 <?php 
+	include "include/reconnaissance.php"; 
 	include "include/footer.php";
 ?>

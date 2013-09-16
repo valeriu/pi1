@@ -14,6 +14,15 @@ jQuery(document).ready(function(){
 		$("a[data-rel^='prettyPhoto']").prettyPhoto();
 	});
 
+ $(document).ready(function() {
+            $('.tooltip').tooltipster({
+				animation: 'fade',
+				arrow: true,
+				theme: '.tooltipster-punk',
+				arrowColor: '#f71169',
+				maxWidth: 500
+});
+        });
 
 $(document).ready(function () {
 	$('#essaiform').validate({ // initialize the plugin

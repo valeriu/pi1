@@ -19,5 +19,6 @@
 		<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zl__1tfik34U.k5odE24UaA9o" width="1180" height="680"></iframe>
 	</article>
 <?php 
+	include "include/reconnaissance.php"; 
 	include "include/footer.php";
 ?>

@@ -109,7 +109,7 @@ nav ul li a {
 	padding: 20px 10px;
 
 }
-nav ul li a:hover {
+nav ul li a:hover, nav ul li .active {
 	color: #fff;
 	background: #000;
 	-webkit-transform: translate3d(0,0,0);
@@ -216,6 +216,24 @@ input:hover, textarea:hover,
 input:focus, textarea:focus { 
 	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
 	}
+/* --- --- [ Reconnaissance ] --- --- */
+.reconnaissance-one {
+	float: left;
+	width: 49.88%;
+}
+.reconnaissance-img {
+	width: 20%;
+}
+.reconnaissance-t-c {
+	width: 77%;
+	margin:6% 1% 0 1%;
+}
+.reconnaissance-titre {
+	font-size: 135%;
+	font-weight: 600;
+	color: #999;
+}
+
 /* --- --- [ Footer ] --- --- */
 .footercontainer{
 	padding: 10px 0;

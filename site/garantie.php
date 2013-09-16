@@ -35,5 +35,6 @@ En plus de la garantie Sans détour de cinq ans /100 000 km, vous et votre Honda
 		</p>
 	</article>
 <?php 
+	include "include/reconnaissance.php"; 
 	include "include/footer.php";
 ?>

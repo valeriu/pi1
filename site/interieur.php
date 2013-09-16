@@ -63,5 +63,6 @@
 		</a>		
 	</article>
 <?php 
+	include "include/reconnaissance.php"; 
 	include "include/footer.php";
 ?>

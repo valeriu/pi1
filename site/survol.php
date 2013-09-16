@@ -18,5 +18,6 @@
 		<p>Bref, la berline Accord 2014 regorge de caractéristiques avancées offertes dans certaines versions, afin que chaque sortie soit sans précédent.</p>
 	</article>
 <?php 
+	include "include/reconnaissance.php"; 
 	include "include/footer.php";
 ?>

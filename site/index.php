@@ -16,7 +16,7 @@
 		<li class="sliderli">
 			<img src="images/slider/01.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
-				Honda Accord 2014
+				Honda Accord 2014<br />Une sécurité indéniable.
 			</div>
 		</li>
 		<li class="sliderli">
@@ -25,25 +25,25 @@
 		<li class="sliderli">
 			<img src="images/slider/02.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
-				2 Le Lorem Ipsum est simplement du faux texte
+				Le coupé conçu simplement en étant à l’écoute.
 			</div>
 		</li>
 		<li class="sliderli">
 			<img src="images/slider/03.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
-				3 Le Lorem Ipsum est simplement du faux texte
+				Votre voiture en dit long sur vous. Surtout lorsque les autres en restent bouche bée.
 			</div>
 		</li>
 		<li class="sliderli">
 			<img src="images/slider/04.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
-				4 Le Lorem Ipsum est simplement du faux texte
+				Des technologies que vous voudrez partager avec vos amis.
 			</div>
 		</li>
 		<li class="sliderli">
 			<img src="images/slider/05.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
-				5 Le Lorem Ipsum est simplement du faux texte
+				La puissance des rêves, quels qu’ils soient.
 			</div>
 		</li>
 		</ul>

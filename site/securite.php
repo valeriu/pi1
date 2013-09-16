@@ -20,5 +20,6 @@
 		<p>Une autre innovation de Honda en matière de sécurité, les coussins gonflables latéraux Smartvent, conçus pour se déployer de manière à contribuer à l’atténuation du risque de blessure pour les occupants de plus petite taille.</p>
 	</article>
 <?php 
+	include "include/reconnaissance.php"; 
 	include "include/footer.php";
 ?>

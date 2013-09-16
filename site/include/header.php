@@ -8,14 +8,29 @@
 	<div class="fright">
 		<nav>
 			<ul class="centercontent">
-				<li><a href="survol.php">Survol</a></li>
-				<li><a href="exterieur.php">Extérieur</a></li>
-				<li><a href="interieur.php">Intérieur</a></li>
-				<li><a href="securite.php">Sécurité</a></li>
-				<li><a href="specifications.php">Spécifications</a></li>
-				<li><a href="garantie.php">Garantie</a></li>
-				<li><a href="contact.php">Contact</a></li>
-				<li><a href="essai.php">Essayer</a></li>
+
+<?php 
+	$file_name = trim(basename($_SERVER['PHP_SELF'], ".php").PHP_EOL);
+	//echo $file_name;
+	$nav = array(
+		"survol" => "Survol",
+		"exterieur" => "Extérieur",
+		"interieur" => "Intérieur",
+		"securite" => "Sécurité",
+		"specifications" => "Spécifications",
+		"garantie" => "Garantie",
+		"contact" => "Contact",
+		"essai" => "Essayer"
+		);
+	foreach ($nav as $i => $value) {
+		if ($file_name == $i || ($file_name == "essaimesage" && $i == "essai")) {
+			echo '<li><a class="active" href="'.$i.'.php">'.$value.'</a></li>';
+		} else {
+			echo '<li><a href="'.$i.'.php">'.$value.'</a></li>';
+		}
+		
+	}
+?>
 			</ul>
 			<div class="clear"></div>
 		</nav>
