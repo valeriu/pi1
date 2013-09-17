@@ -13,14 +13,19 @@
 	
 		<ul class="slides">
 
-		<li class="sliderli">
+		<li class="sliderli">		
 			<img src="images/slider/01.jpg" alt="Honda Accord 2014" />
 			<div class="centercontentslider">
 				Honda Accord 2014<br />Une sécurité indéniable.
 			</div>
 		</li>
 		<li class="sliderli">
-			<iframe width="1180" height="664" id="player_1" src="http://www.youtube.com/embed/Ne91GD3ywDg" allowfullscreen></iframe>
+			<a href="http://www.youtube.com/watch?v=Ne91GD3ywDg" data-rel="prettyPhoto" title="Honda Accord 2014">	
+				<img src="images/slider/06.jpg" alt="Honda Accord 2014" />
+			</a>
+			<div class="centercontentslider">
+				Honda Accord 2014
+			</div>
 		</li>
 		<li class="sliderli">
 			<img src="images/slider/02.jpg" alt="Honda Accord 2014" />
