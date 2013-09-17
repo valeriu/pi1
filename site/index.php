@@ -1,9 +1,9 @@
 <?php 
 	include "include/bd.php";
+	include "include/library.php";
 	$pagetitre = "Honda Accord 2014";
 	include "include/head.php";
 	include "include/header.php";
-	include "include/nav.php";
 ?>
     <!-- Index Slider  -->
     <article class="centercontent content">

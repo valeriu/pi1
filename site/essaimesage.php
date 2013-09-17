@@ -1,5 +1,6 @@
 <?php 
 		include "include/bd.php";
+		include "include/library.php";
 	if (isset($_GET["nom"]) && isset($_GET["prenom"]) && isset($_GET["courriel"]) && isset($_GET["telephone"]) && isset($_GET["remarques"])) {
 		$nom		= mysqli_real_escape_string($connectBD, strip_tags($_GET["nom"]));
 		$prenom		= mysqli_real_escape_string($connectBD, strip_tags($_GET["prenom"]));
@@ -27,7 +28,6 @@
 	$pagetitre 	= "Nous avons bien reçu votre demande!";
 	include "include/head.php";
 	include "include/header.php";
-	include "include/nav.php";
 ?>
 	<article class="centercontent content">
 		<h1> <?php echo $nom . " " . $prenom; ?> </h1>

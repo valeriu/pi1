@@ -1,5 +1,6 @@
 <?php 
 		include "include/bd.php";
+		include "include/library.php";
 	if (isset($_POST["titre"]) && isset($_POST["content"]) && isset($_POST["logo"])) {
 		$titre		= mysqli_real_escape_string($connectBD, strip_tags($_POST["titre"]));
 		$content	= mysqli_real_escape_string($connectBD, strip_tags($_POST["content"]));
@@ -18,7 +19,6 @@
 	$pagetitre 	= "Nous avons bien reçu votre demande!";
 	include "include/head.php";
 	include "include/header.php";
-	include "include/nav.php";
 ?>
 	<article class="centercontent content">
 	<h1>baga</h1>

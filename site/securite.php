@@ -1,9 +1,9 @@
 <?php 
 	include "include/bd.php";
+	include "include/library.php";
 	$pagetitre = "La sécurité d’abord";
 	include "include/head.php";
 	include "include/header.php";
-	include "include/nav.php";
 ?>
  
 	<article class="centercontent content">

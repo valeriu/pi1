@@ -1,9 +1,9 @@
 <?php 
 	include "include/bd.php";
+	include "include/library.php";
 	$pagetitre = "Berline Accord 2014 intérieur galerie";
 	include "include/head.php";
 	include "include/header.php";
-	include "include/nav.php";
 ?>
 
 	<article class="centercontent content">
