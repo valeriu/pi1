@@ -27,10 +27,10 @@
 		</div>
 		<div class="clear"></div>
 
-		<div class="designby fleft">
+		<div class="designby">
 			FAIT AVEC <span aria-hidden="true" class="icon-heart-stroke"></span> À MONTRÉAL par <a href="http://valeriu.tihai.md" title="Architecte et Integrateur Web">Valeriu Tihai</a>
 		</div>
-		<div class="copyright fright">
+		<div class="copyright">
 			© Honda 2013 Tous droits réservés 
 		</div>
 		<div class="clear"></div>

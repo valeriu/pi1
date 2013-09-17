@@ -10,7 +10,7 @@
 		<h1>Garantie = Satisfaction du propriétaire</h1>
 		<p>Chez Honda, la satisfaction du propriétaire commence dès le moment de l'achat de votre voiture neuve. Avec nos garanties normales et le plan satisfaction prolongées Honda Plus, les clients nous mettent à l'épreuve à long terme. Et nous passons le test. Un guide de garantie et d'entretien accompagne chaque Honda vendue. Il fournit tous les détails sur la couverture de garantie complète offerte sur chaque véhicule Honda. Il explique aussi les droits et responsabilités du propriétaire en regard à la couverture de garantie.</p>
 		<a href="images/uploads/garantie-01-full.jpg" data-rel="prettyPhoto" title="Garantie = Satisfaction du propriétaire">
-			<img src="images/uploads/garantie-01.jpg" alt="Garantie = Satisfaction du propriétaire">
+			<img src="images/uploads/garantie-01.jpg" alt="Garantie = Satisfaction du propriétaire" class="r-img-f">
 		</a>
 		<h2>Couverture de garantie d'année courante</h2>
 		<p>La garantie Honda Sans détour de cinq ans /100 000 km a établi une nouvelle norme lorsqu'elle a été lancée. Aujourd'hui, elle continue à être un point de référence en matière de protection de la clientèle et de satisfaction du propriétaire.

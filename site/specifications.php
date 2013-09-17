@@ -8,6 +8,9 @@
  
 	<article class="centercontent content">
 		<h1>Spécifications Honda Accord 2014</h1>
+		<div class="pdfmobile">
+			<h3><a href="doc/accord_specifications_2014.pdf">Téléchargez le spécifications en PDF</a></h3>
+		</div>
 		<h3>Prix</h3>
 		<table> 
 	<thead> 

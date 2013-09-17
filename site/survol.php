@@ -10,7 +10,7 @@
 		<h1>Survol berline Accord</h1>
 		<p>La berline Accord 2014 perpétue une tradition de longue date en matière de caractéristiques, de performance et de style ingénieux. Son extérieur audacieux est souligné par des roues de 18 po en alliage d’aluminium et des phares LED de type projecteur offerts dans certaines versions.</p>
 		<a href="images/uploads/survol-01-full.jpg" data-rel="prettyPhoto" title="Survol - Honda Accord 2014">
-			<img src="images/uploads/survol-01.jpg" alt="Survol berline accord">
+			<img src="images/uploads/survol-01.jpg" alt="Survol berline accord" class="r-img-f">
 		</a>
 		<p>Sous le capot, le moteur intègre la technologie révolutionnaire Earth DreamsMC de Honda, qui offre une performance impressionnante et une cote de consommation incroyable.</p>
 		<p>L’habitacle est très spacieux et dispose de caractéristiques technologiques avancées comme le HondaLink avec écran audio tactile offert dans certaines versions. Le système vous connecte aux infos, à la musique et au divertissement en ligne que vous préférez, au moyen de votre téléphone intelligent compatible. </p>

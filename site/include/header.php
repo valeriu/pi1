@@ -1,11 +1,11 @@
 <header id="sticker">
 	<div class="centercontent"> 
-	<div class="logo fleft">
+	<div class="logo">
 		<a href="index.php" title="Honda Accord 2014">
 			<img src="images/logo-honda-accord.png" alt="Honda Accord 2014">
 		</a>
 	</div>
-	<div class="fright">
+	<div class="navigation">
 		<nav>
 			<ul class="centercontent">
 
