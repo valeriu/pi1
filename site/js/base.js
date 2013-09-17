@@ -19,7 +19,7 @@ jQuery(document).ready(function(){
 				animation: 'fade',
 				arrow: true,
 				theme: '.tooltipster-punk',
-				arrowColor: '#f71169',
+				arrowColor: '#ba0511',
 				maxWidth: 500
 });
         });
