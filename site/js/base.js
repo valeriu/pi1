@@ -14,7 +14,7 @@ jQuery(document).ready(function(){
 		$("a[data-rel^='prettyPhoto']").prettyPhoto();
 	});
 
- $(document).ready(function() {
+$(document).ready(function() {
             $('.tooltip').tooltipster({
 				animation: 'fade',
 				arrow: true,
@@ -49,7 +49,7 @@ $(document).ready(function () {
 		},
 		messages: {
 			nom: 			"S'il vous plaît indiquer votre nom",
-			prenom: 		"S'il vous plaît indiquer votre prenom",
+			prenom: 		"S'il vous plaît indiquer votre prénom",
 			courriel: {
 				required: 	"Nous avons besoin de votre adresse e-mail pour vous contacter",
 				email:		"Votre adresse email doit être dans le format: name@domain.com"
@@ -57,10 +57,10 @@ $(document).ready(function () {
 			telephone: {
 				required:	"Nous avons besoin de votre numéro de téléphone pour vous contacter",
 				digits:		"S'il vous plaît entrer que des chiffres.",
-				minlength:	"S'il vous plaît entrer au moins 10 caractères.",
-				maxlength:	"S'il vous plaît entrer un maximum de 11 caractères."
+				minlength:	"S'il vous plaît entrer au moins 10 chiffres.",
+				maxlength:	"S'il vous plaît entrer un maximum de 11 chiffres."
 			},
-			remarques:		"S'il vous plaît indiquer votre remarques",
+			remarques:		"S'il vous plaît indiquer votre message",
 		},
 		submitHandler: function (form) {
 			window.location.replace("essaimesage.php?nom="+nom.value+"&prenom="+prenom.value+"&courriel="+courriel.value+"&telephone="+telephone.value+"&remarques="+remarques.value);

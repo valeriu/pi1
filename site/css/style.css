@@ -364,3 +364,12 @@ article .error {
 .copyright {
 	text-align: right;
 }
+
+/* --- --- [ Mobile, Tablets ] --- --- */
+@media (min-width: 760px) and (max-width: 1060px) {
+
+body {
+	background-color: #000;
+}
+
+}

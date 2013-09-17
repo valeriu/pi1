@@ -16,7 +16,7 @@
 			<strong>Numéro:</strong> 1-888-9-HONDA-9 (1-888-946-6329)<br />
 			<strong>Heures d'ouverture:</strong> 8 h à 19 h 30 du lundi au vendredi (HNE)<br /><br />
 		</p>
-		<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zl__1tfik34U.k5odE24UaA9o" width="1180" height="680"></iframe>
+		<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zl__1tfik34U.k5odE24UaA9o" width="100%" height="680"></iframe>
 	</article>
 <?php 
 	include "include/reconnaissance.php"; 
