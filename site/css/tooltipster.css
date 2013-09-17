@@ -46,7 +46,7 @@ html {
 	line-height: 0;
 	position: absolute;
 	z-index: 9999999;
-	pointer-events: none;
+	/*pointer-events: none;*/
 	width: auto;
 	overflow: visible;
 }
