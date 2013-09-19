@@ -5,7 +5,7 @@
 	<title><?php echo $pagetitre; ?></title>
 	<meta name="description" content="Information, spécifications, photos, vidéos, options de garantie de la Honda Accord 2014." />
 	<meta name="keywords" content="Honda, Honda Accord, berline, Accord 2014, Honda Accord 2014" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width" />
 	<link rel="shortcut icon" href="images/favicon.ico" />
 	<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
 	<link rel="stylesheet" type="text/css" media="all" href="css/hondaaccord.css" />
