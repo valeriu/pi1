@@ -109,10 +109,11 @@ div.pp_default .pp_close:hover,div.pp_default .pp_nav .pp_play:hover,div.pp_defa
 		opacity:0.7
 	}
 div.pp_default .pp_description{
-		font-size:11px;
-		font-weight:700;
+		font-size:150%;
+		font-weight:400;
 		line-height:14px;
-		margin:5px 50px 5px 0
+		margin:10px 50px 5px 0;
+		color: #666;
 	}
 div.pp_default .pp_bottom .pp_left{
 		background:url(../images/prettyPhoto/default/sprite.png) -78px -127px no-repeat
