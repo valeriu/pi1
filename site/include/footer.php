@@ -18,12 +18,12 @@
 		<div class="social-icons fright">
 			<div class="titre"><span>Rester connecté</span></div>
 
-			<a href="" aria-hidden="true" class="icon-facebook"></a>
-			<a href="" aria-hidden="true" class="icon-twitter"></a>
-			<a href="" aria-hidden="true" class="icon-google-plus"></a>
-			<a href="" aria-hidden="true" class="icon-foursquare"></a>
-			<a href="" aria-hidden="true" class="icon-youtube"></a>
-			<a href="" aria-hidden="true" class="icon-feed"></a>
+			<a href="http://fb.com/valeriu" aria-hidden="true" class="icon-facebook"></a>
+			<a href="http://twitter.com/valeriu" aria-hidden="true" class="icon-twitter"></a>
+			<a href="https://plus.google.com/u/0/106077873424472551858/posts" aria-hidden="true" class="icon-google-plus"></a>
+			<a href="https://foursquare.com/valeriu" aria-hidden="true" class="icon-foursquare"></a>
+			<a href="http://www.youtube.com/user/Honda" aria-hidden="true" class="icon-youtube"></a>
+			<a href="http://feeds.feedburner.com/valeriutihai" aria-hidden="true" class="icon-feed"></a>
 		</div>
 		<div class="clear"></div>
 
