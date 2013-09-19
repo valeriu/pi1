@@ -95,7 +95,6 @@ header {
 	float: right;
 }
 /* --- --- [ Navigation ] --- --- */
-nav { }
 nav ul {
 	list-style-type: none;
 	text-align: center;
@@ -145,7 +144,7 @@ nav ul li a:hover, nav ul li .active {
 .sliderli {
 	position: relative;
 }
-/* --- --- [ Articel ] --- --- */
+/* --- --- [ Article ] --- --- */
 article p {
 	font-size: 135%;
 	line-height: 155%;
@@ -187,7 +186,7 @@ article  tr:hover .icon-checkmark{
 }
 article label, article input{
 	display: block;
-	width: 50%;
+	width: 70%;
 }
 article label {
 	font-size: 135%;
@@ -202,16 +201,40 @@ article input{
     background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);  
     box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
     -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
-    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
 }
 article input[type=submit] {
 	width: auto;
-	margin: 10px 0; 
+	margin: 10px 0 30px 0;
+	padding: 5px 10px;
+	background: #c40020;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(5%, #c40020), color-stop(100%, #d61119) );
+	background:-moz-linear-gradient( center top, #c40020 5%, #d61119 100% );
+	background:-ms-linear-gradient( top, #c40020 5%, #d61119 100% );
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}
+article input[type=submit]:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(5%, #d61119), color-stop(100%, #c40020) );
+	background:-moz-linear-gradient( center top, #d61119 5%, #c40020 100% );
+	background:-ms-linear-gradient( top, #d61119 5%, #c40020 100% );
+	background: #d61119;
 }
 article textarea{
 	font-size: 135%;
 	font-family: "Open Sans", Verdana, sans-serif;
-	width: 50%;
+	width: 70%;
 	padding-left: 5px; 
 	border: none;
 	border-top: 1px solid #999;
@@ -220,7 +243,12 @@ article textarea{
     background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);  
     box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
     -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
-    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
 }
 input:hover, textarea:hover,
 input:focus, textarea:focus { 
@@ -372,8 +400,16 @@ article .error {
 	background-color: #fff;
 }
 .designby span {
-	color: #fff; 
-	font-size: 80%;
+	font-size: 110%;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	border-radius: 15px;
+	padding: 7px;
+	margin: 5px;
+	background: #fff;
+	color: #c40020;
 }
 .copyright {
 	text-align: right;
@@ -390,25 +426,61 @@ article .error {
 	height: auto;
 	margin: 0 10px 20px 0;
 }
-/* --- --- [ Mobile, Tablets ] --- --- */
-@media (min-width: 760px) and (max-width: 1060px) {
 
-body {
-	background-color: #fff;
-}
+/* --- --- [ Mobile, Tablets ] --- --- */
+@media (max-width: 1148px) { /*iPad*/
 .centercontent {
 	margin: 1%;
 }
-.logo {
-	float: left;
-	width: 100%;
-	text-align: center;
+nav ul li a {
+	font-size: 145%;
+	padding: 10px 5px;
 }
-.navigation {
-	float: left;
+h1 {
+	font-size: 250%;
+}
+h2 {
+	font-size: 200%;
+}
+h3 {
+	font-size: 150%;
+}
+.centercontentslider {
+	font-size: 130%;
+	max-width: 65%;
+}
+.fhonda .titre, .social-icons .titre {
+	font-size: 100%;
+	font-weight: 400;
+}
+.social-icons a {
+	font-size: 150%;
+}
+article label, article input, article textarea{
+	width: 98%;
 }
 }
-
+@media (max-width: 1106px) { /*ipad*/
+nav ul li a {
+	font-size: 130%;
+	padding: 10px 5px;
+}
+.social-icons a {
+	font-size: 130%;
+}
+.fhonda ul li{
+	width:33%;
+}
+.fhonda {
+	width: 55%;
+}
+.social-icons {
+	width: 45%;
+}
+.r-gallery li {
+	width: 50%;	
+}
+}
 @media (max-width: 950px) {
 .reconnaissance-one {
 	float: left;
@@ -445,6 +517,10 @@ article label, article input, article textarea{
 .r-gallery li {
 	width: 50%;	
 }
+.centercontentslider {
+	font-size: 100%;
+	max-width: 75%;
+}
 }
 @media (max-width: 500px) {
 .reconnaissance-img {
@@ -464,10 +540,26 @@ article label, article input, article textarea{
 .pdfmobile {
 	display: block;
 }
+.centercontentslider {
+	font-size: 90%;
+	max-width: 85%;
+}
+article p {
+	font-size: 120%;
+	line-height: 125%;
+	margin-bottom: 2%;
+}
 }
 @media (max-width: 400px) {
 .r-gallery li {
 	width: 100%;	
+}
+.centercontentslider {
+	font-size: 90%;
+	max-width: 85%;
+}
+.designby, .copyright {
+	font-size: 90%;
 }
 }
 @media (max-width: 350px) {
