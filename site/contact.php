@@ -17,7 +17,7 @@
 			<strong>Heures d'ouverture:</strong> 8 h à 19 h 30 du lundi au vendredi (HNE)<br /><br />
 		</p>
 		<div class="h_iframe">
-				<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zl__1tfik34U.k5odE24UaA9o" width="100%"></iframe>
+				<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zl__1tfik34U.k5odE24UaA9o"></iframe>
 		</div>
 	</article>
 <?php 
