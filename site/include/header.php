@@ -7,7 +7,7 @@
 	</div>
 	<div class="navigation">
 		<nav>
-			<ul class="centercontent">
+			<ul>
 
 <?php 
 	foreach ($nav as $i => $value) {
