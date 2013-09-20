@@ -575,3 +575,32 @@ article p {
 }
 
 }
+@media print  {
+.navigation, .reconnaissance-one, .fhonda, .social-icons, .designby, header {
+	display: none;
+}
+article p {
+	font-size: 100%;
+}
+.copyright {
+	margin: 0px;
+	color: #000;
+}
+.logo img {
+	width: 50px;
+	height: 45px;
+}
+.footercontainer {
+	margin:0;
+	background-color: #ccc;
+	border: none;
+}
+h1 {
+	font-size: 175%;
+	margin-bottom: 20px;
+}
+h2 {
+	font-size: 150%;
+	margin-bottom: 10px;
+}
+}
